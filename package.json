@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "main": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^5.5.4"
+  }
+}
